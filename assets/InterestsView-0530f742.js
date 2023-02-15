@@ -1,0 +1,1 @@
+import{V as e}from"./ViewHeader-cbe47f7d.js";import{d as a,o as t,c as o,a as r}from"./index-923604cc.js";const _=a({__name:"InterestsView",setup(n){return(s,c)=>(t(),o("main",null,[r(e)]))}});export{_ as default};

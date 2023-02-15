@@ -1,0 +1,1 @@
+import{V as e}from"./ViewHeader-cbe47f7d.js";import{d as a,o,c as t,a as r}from"./index-923604cc.js";const l=a({__name:"SoftSkillsView",setup(n){return(s,c)=>(o(),t("main",null,[r(e)]))}});export{l as default};
