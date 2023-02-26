@@ -1,1 +1,0 @@
-import{V as e}from"./ViewHeader-cbe47f7d.js";import{d as a,o,c as r,a as n}from"./index-923604cc.js";const _=a({__name:"ReferencesView",setup(t){return(c,s)=>(o(),r("main",null,[n(e)]))}});export{_ as default};
