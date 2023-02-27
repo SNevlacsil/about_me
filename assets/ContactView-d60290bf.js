@@ -1,0 +1,1 @@
+import{V as e}from"./ViewHeader-95be43d7.js";import{e as t,o as a,c as o,f as _,_ as n}from"./index-26804329.js";const c=t({__name:"ContactView",setup(s){return(r,d)=>(a(),o("main",null,[_(e,{"disabled-at-expanded":"true"})]))}});const i=n(c,[["__scopeId","data-v-ff6b240d"]]);export{i as default};
